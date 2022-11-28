@@ -8,10 +8,10 @@ Data Analytics Intern – Task 1
 We conduct Olympiad exam for our partner schools every year to evaluate the standard of the students. Here we have provided you with the sample data for the exam. To get a proper insight about the exam you need all the 4 tables, data for all those 4 tables are given in the csv file. 
 
 List of tables:
-Student_list
-Student_response
-Correct_answers
-Question_paper_code
+Student_list,
+Student_response,
+Correct_answers,
+Question_paper_code.
 
 Table 1: student_list - List of students who attended the Olympiad exam from Google Public School.
 Table 2: student_response - The Learn Basics Olympiad is an objective exam, student response for every question was recorded in this table.
@@ -25,18 +25,18 @@ Now, the objective is to validate the student response and present it in a singl
 Required output table with column data,
 
 OUTPUT_TABLE_COLUMN_NAMES
-Roll_number
-Student_name
-Class
-Section
-School_name
-Math_correct
-Math_wrong
-Math_yet_to_learn
-Math_score
-Math_percentage
-Science_correct
-Science_wrong
-Science_yet_learn
-Science_score
-Science_percentage
+Roll_number,
+Student_name,
+Class,
+Section,
+School_name,
+Math_correct,
+Math_wrong,
+Math_yet_to_learn,
+Math_score,
+Math_percentage,
+Science_correct,
+Science_wrong,
+Science_yet_learn,
+Science_score,
+Science_percentage;
