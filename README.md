@@ -1,6 +1,6 @@
 # Monday november 28,
-# I finished Course 5 0f 8 on coursera google certificate course ..... 
-# Analyze Data to Answer Questions ...
-# Pause for a while to practice SQL querries....
-# I came accross this problem: SQL Interview Query for Data Analyst online
-# I downloaded the files, uploaded them on Bigquerry
+I finished Course 5 0f 8 on coursera google certificate course 
+Course: Analyze Data to Answer Questions
+Pause for a while to practice SQL querries
+I came accross this problem: SQL Interview Query for Data Analyst online
+I downloaded the CSV files, uploaded them on Bigquerry to try solve the problem.
