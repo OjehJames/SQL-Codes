@@ -1,6 +1,6 @@
 # Monday November 28, 2022
-I just finished Course 5 0f 8 on coursera google certificate course (Course: Analyze Data to Answer Questions). Pause for a while to practice SQL querries.
-I came accross this problem: SQL Interview Query for Data Analyst online, I downloaded the CSV files, uploaded them on Bigquerry to try solve the challenge.
+I just finished Course 5 of 8 on coursera google certificate course (Course: Analyze Data to Answer Questions). Pause for a while to practice my knowledge on writing SQL querries.
+I came accross this problem: SQL Interview Query for Data Analyst online, I downloaded the CSV files, uploaded tables on Bigquerry to try solve the challenge. Please take a look at my SQL query, i am still very much a work in progress...
 
 #THE CHALLENGE
 Data Analytics Intern – Task 1
@@ -24,7 +24,7 @@ Required output of task 1:
 Now, the objective is to validate the student response and present it in a single table with list of columns mentioned below using SQL. 
 Required output table with column data,
 
-OUTPUT_TABLE_COLUMN_NAMES
+OUTPUT_TABLE_COLUMN_NAMES:
 Roll_number,
 Student_name,
 Class,
