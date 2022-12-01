@@ -1,6 +1,6 @@
 # Monday November 28, 2022
 I just finished Course 5 of 8 on coursera google certificate course (Course: Analyze Data to Answer Questions). Pause for a while to practice my knowledge on writing SQL querries.
-I came accross this problem: SQL Interview Query for Data Analyst online, I downloaded the CSV files, uploaded tables on Bigquerry to try solve the challenge. Please take a look at my SQL query, i am still very much a work in progress...
+I came accross this problem online: SQL Interview Query for Data Analyst intern, I downloaded the CSV files, uploaded tables on Bigquerry to try solve the challenge. Please take a look at my SQL query, i am still very much a work in progress...
 
 #THE CHALLENGE
 Data Analytics Intern – Task 1
