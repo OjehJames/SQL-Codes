@@ -1,42 +1,14 @@
-# Monday November 28, 2022
-I just finished Course 5 of 8 on coursera google certificate course (Course: Analyze Data to Answer Questions). Pause for a while to practice my knowledge on writing SQL querries.
-I came accross this problem online: SQL Interview Query for Data Analyst intern, I downloaded the CSV files, uploaded tables on Bigquerry to try solve the challenge. Please take a look at my SQL query, i am still very much a work in progress...
+# Data Analytics Interview Question solved.
 
-#THE CHALLENGE
-Data Analytics Intern – Task 1
+The challenge here was to write ✍🏽 SQL query that would query the database to join 4 tables provided by interviewer and return already specified columns back. The tricky thing here is that only the first five columns have been created in the provided tables, the rest we have to create them using calculations and performing data aggregation…
 
-We conduct Olympiad exam for our partner schools every year to evaluate the standard of the students. Here we have provided you with the sample data for the exam. To get a proper insight about the exam you need all the 4 tables, data for all those 4 tables are given in the csv file. 
+For this task I used Big query as my database, I created a new dataset in big query, titled ‘sql_practice1’ & uploaded the provided 4 tables into the dataset. The tables are in .csv format.
 
-List of tables:
-Student_list,
-Student_response,
-Correct_answers,
-Question_paper_code.
+In this repository you will find 
+\
+1. The four tables in .csv formate: correct_answer.csv, question_paper_code.csv, student_list.csv and student_response.csv
+\
+2.The interview question: Input_Output - Problem Statement.docx
+\
+3.My solution : Challenge_Solved.sql
 
-Table 1: student_list - List of students who attended the Olympiad exam from Google Public School.
-Table 2: student_response - The Learn Basics Olympiad is an objective exam, student response for every question was recorded in this table.
-5 options ("A', 'B', 'C, 'D' and 'E') are provided for each question
-Out of 5 options only "A', 'B', 'C' and D' are the valid options, students can pick E' option when they think they haven't learnt the concept yet.
-Table 3: correct_answers - This table has the correct answer for all the questions in math and science.
-Table 4: question_paper_code - Since we are dealing with 3 classes and 2 subjects, we are maintaining a separate question paper code for each class and each subject.
-
-Required output of task 1:
-Now, the objective is to validate the student response and present it in a single table with list of columns mentioned below using SQL. 
-Required output table with column data,
-
-OUTPUT_TABLE_COLUMN_NAMES:
-Roll_number,
-Student_name,
-Class,
-Section,
-School_name,
-Math_correct,
-Math_wrong,
-Math_yet_to_learn,
-Math_score,
-Math_percentage,
-Science_correct,
-Science_wrong,
-Science_yet_learn,
-Science_score,
-Science_percentage;
